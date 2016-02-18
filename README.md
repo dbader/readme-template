@@ -7,7 +7,7 @@
 
 One to two paragraph statement about your product and what it does.
 
-![Example screenshot](https://placeholdit.imgix.net/~text?txtsize=33&txt=Example%20Screenshot&w=350&h=150)
+![](header.png)
 
 ## Installation
 
@@ -19,7 +19,7 @@ npm install my-crazy-module --save
 
 Windows:
 
-```
+```sh
 edit autoexec.bat
 ```
 
@@ -41,7 +41,7 @@ npm test
 * 0.2.1
     * CHANGE: Update docs (module code remains unchanged)
 * 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`  
+    * CHANGE: Remove `setDefaultXYZ()`
     * ADD: Add `init()`
 * 0.1.1
     * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
