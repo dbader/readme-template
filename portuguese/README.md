@@ -7,7 +7,7 @@
 
 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 
-![](header.png)
+![](../header.png)
 
 ## Instalação
 
