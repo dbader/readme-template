@@ -25,7 +25,7 @@ edit autoexec.bat
 
 ## Exemplo de uso
 
-Alguns exemplos motivamentes e úteis sobre como seu projeto pode ser utilizado. Adicionei blocos de códigos e, se necessário, screenshots.
+Alguns exemplos interessantes e úteis sobre como seu projeto pode ser utilizado. Adicione blocos de códigos e, se necessário, screenshots.
 
 ## Configuração para Desenvolvimento
 
