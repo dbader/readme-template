@@ -1,11 +1,11 @@
 # Produktname
-> Kurze Zusammenfassung was ihr Produkt kann.
+> Kurze Zusammenfassung was Ihr Produkt kann.
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-Ein bis zwei beschreibende Absätze über ihr Produkt und was es kann.
+Ein bis zwei beschreibende Absätze über Ihr Produkt und was es kann.
 
 ![](../header.png)
 
@@ -14,7 +14,7 @@ Ein bis zwei beschreibende Absätze über ihr Produkt und was es kann.
 OS X & Linux:
 
 ```sh
-npm install my-crazy-module --save
+npm install my-crazy-module --save  
 ```
 
 Windows:
@@ -23,15 +23,15 @@ Windows:
 edit autoexec.bat
 ```
 
-## Nutzungsbeispiel
+## Anwendungsbeispiel
 
-Einige motivierende und nützliche Beispiele wie ihr Produkt benutzt werden kann. Zusätzlich können auch noch Code-Blöcke und Bildschirmfotos hinzugefügt werden.
+Einige motivierende und nützliche Beispiele wie Ihr Produkt benutzt werden kann. Zusätzlich können auch noch Code-Blöcke und Bildschirmfotos hinzugefügt werden.
 
 _Für mehr Bespiele und Anwendungen, lesen Sie weiter im [Wiki][wiki]._
 
-## Entwicklungs Installation
+## Installation für Entwickler 
 
-Beschreiben Sie wie Sie alle Entwicklungspakete installieren und wie sie automatisierte Tests durchführen können. Gegebenenfalls für mehrere Plattformen.
+Beschreiben Sie wie Sie alle Entwicklungspakete installieren und wie Sie automatisierte Tests durchführen können. Gegebenenfalls für mehrere Plattformen.
 
 ```sh
 make install
@@ -57,17 +57,17 @@ npm test
 
 Ihr Name – [@IhrTwitter](https://twitter.com/dbader_org) – IhreEmail@beispiel.com
 
-Vertrieb unter der XYZ Lizenz. Sehen Sie ``LICENSE`` ein für weitere Informationen.
+Vertrieb unter der XYZ Lizenz. Siehe ``LICENSE`` für weitere Informationen.
 
 [https://github.com/yourname/github-link](https://github.com/dbader/)
 
-## Beteiliegen
+## Mitwirken
 
 1. Forken Sie (<https://github.com/yourname/yourproject/fork>)
 2. Erstellen Sie eine neue Feature Branch (`git checkout -b feature/fooBar`)
 3. Committen Sie ihre Änderungen (`git commit -am 'Add some fooBar'`)
 4. Pushen Sie zu der Branch (`git push origin feature/fooBar`)
-5. Erstellen sie eine neue Pull Request
+5. Erstellen Sie eine neue Pull Request
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
