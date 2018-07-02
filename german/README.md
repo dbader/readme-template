@@ -29,7 +29,7 @@ Einige motivierende und nützliche Beispiele wie ihr Produkt benutzt werden kann
 
 _Für mehr Bespiele und Anwendungen, lesen Sie weiter im [Wiki][wiki]._
 
-## Development setup
+## Entwicklungs Installation
 
 Beschreiben Sie wie Sie alle Entwicklungspakete installieren und wie sie automatisierte Tests durchführen können. Gegebenenfalls für mehrere Plattformen.
 
@@ -53,7 +53,7 @@ npm test
 * 0.0.1
     * Work in progress
 
-## Meta
+## Informationen
 
 Ihr Name – [@IhrTwitter](https://twitter.com/dbader_org) – IhreEmail@beispiel.com
 
@@ -61,7 +61,7 @@ Vertrieb unter der XYZ Lizenz. Sehen Sie ``LICENSE`` ein für weitere Informatio
 
 [https://github.com/yourname/github-link](https://github.com/dbader/)
 
-## Contributing
+## Beteiliegen
 
 1. Forken Sie (<https://github.com/yourname/yourproject/fork>)
 2. Erstellen Sie eine neue Feature Branch (`git checkout -b feature/fooBar`)
