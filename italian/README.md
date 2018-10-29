@@ -28,7 +28,7 @@ edit autoexec.bat
 Alcuni esempi utili di come il prodotto possa essere utilizzato.
 Qualche blocco di codice e screenshot.
 
-_Per altri esempi e casi d'uso si è pregati di fare riferimento alla [Wiki][wiki]._
+_Per altri esempi e casi d'uso fare riferimento alla [Wiki][wiki]._
 
 ## Configurazione dell'ambiente
 
@@ -44,7 +44,7 @@ npm test
 * 0.2.1
     * MODIFICA: Aggiornamento documentazione (il codice rimane invariato)
 * 0.2.0
-    * MODIFICA: rimosso `setDefaultXYZ()`
+    * MODIFICA: Rimosso `setDefaultXYZ()`
     * AGGIUNTA: Aggiunto `init()`
 * 0.1.1
     * FIX: Crash Quando si chiamava `baz()` (Grazie a @NomeDelGenerosoCollaboratore!)
