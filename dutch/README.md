@@ -57,7 +57,7 @@ npm test
 
 Jouw naam – [@JouwTwitter](https://twitter.com/dbader_org) – Jouwmail@example.com
 
-Verspreid onder de XYZ licentie. Zie ``LICENSE`` voor meer informatie.
+Verspreid onder de XYZ licentie. Zie `LICENSE` voor meer informatie.
 
 [https://github.com/yourname/github-link](https://github.com/dbader/)
 
