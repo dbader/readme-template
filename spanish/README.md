@@ -29,7 +29,7 @@ Algunos casos de ejemplo sobre cómo utilizar tu producto. Algunos bloques de c�
 
 ## Configuración de desarrollo
 
-Describe como instalar todas las dependencias y como ejecutar la batería de tests (en caso de tenerla). Si funciona en múltiples plataformas intenta describirlas todas si tuviesen pasos diferentes.
+Describe cómo instalar todas las dependencias y cómo ejecutar la batería de tests (en caso de tenerla). Si funciona en múltiples plataformas intenta describirlas todas si tienen pasos diferentes.
 
 ```sh
 make install
@@ -53,7 +53,7 @@ npm test
 
 ## Meta
 
-Tu nomre – [@TuTwitter](https://twitter.com/dbader_org) – TuEmail@example.com
+Tu nombre – [@TuTwitter](https://twitter.com/dbader_org) – TuEmail@example.com
 
 Distribuido bajo la licencia XYZ. Ver ``LICENSE`` para más información.
 
